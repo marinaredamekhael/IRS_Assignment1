@@ -1,2 +1,2 @@
-# IRS_Assignment1
-Assignment one of intelligent recommender system 
+# IRS Course Assignments
+This repository contains my assignments for the **Intelligent Recommender Systems (IRS)** course. 
